@@ -19,3 +19,8 @@ When I got stuck, I looked things up and tried my own solutions, so I could prac
 
 ## Notes
 This is a learning project (tutorial-based).
+
+## Screenshots
+![Character Select](Screenshots/ss1.png)
+![Lilly the Frog](Screenshots/ss2.png)
+![Rex the T-Rex](Screenshots/ss3.png)
