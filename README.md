@@ -1,20 +1,21 @@
-# Snow Surfer (GameDev.tv)
+# Snow Surfer Game
 
 This is the second game project from the GameDev.tv team’s Udemy course.
 
-I followed the tutorial videos and also did the small challenge parts in each lesson.  
-When I got stuck, I searched and tried my own solutions, so I could practice and understand the topics better.
+I followed the tutorial videos and did the small challenge parts in each lesson.  
+When I got stuck, I looked things up and tried my own solutions, so I could practice and understand the topics better.
 
-## Topics I practiced and Learned
+## Topics I practiced and learned
 - Sprite Shapes
-- Edge Colliders & Surface Effector 2D
+- Edge Colliders and Surface Effector 2D
 - Cinemachine follow camera
-- Unity Input System
+- Unity Input System (WASD or arrow keys)
 - Collisions / triggers (finish line, crash detector)
-- Particles
+- Particles (stop in air, different effect on head hit)
 - UI (fonts, buttons, layout)
-- ScriptableObjects (powerups)
-- Timer
+- ScriptableObjects (powerups that change torque or speed)
+- Timer (deltaTime)
+- Character select button
 
 ## Notes
 This is a learning project (tutorial-based).
