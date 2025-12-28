@@ -1,4 +1,4 @@
-# Snow Surfer Game
+# Alpine Rush Game
 
 This is the second 2D game project from the GameDev.tv team’s Udemy course.
 
